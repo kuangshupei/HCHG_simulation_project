@@ -1,1 +1,1 @@
-# HCHG_simulation_project
+# Welcome to the repository for the HCHG simulation project!
